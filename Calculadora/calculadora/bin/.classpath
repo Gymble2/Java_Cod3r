@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="JavaCompleto/Fundamentos/ConversaoNumeroString/src/|JavaCompleto/ArraysAndCollections/Construtor/src/|JavaCompleto/Fundamentos/Areacif/src/|JavaCompleto/ArraysAndCollections/src/|JavaCompleto/Desafios/OperadoresLogicos/src/|Exercicios_JPAa/src/main/java/|JavaCompleto/ArraysAndCollections/Collections/src/|JavaDataBaseConnectivity_(JDBC)/br.com.JavaBC.gabriel/src/|JavaCompleto/Fundamentos/Equals na pratica/src/|JavaCompleto/Fundamentos/NotacaoPonto/src/|JavaCompleto/Desafios/Data/src/|JavaCompleto/Fundamentos/Wrapper/src/|campo_minado/|JavaCompleto/Desafios/src/|JavaCompleto/Fundamentos/Conversoes/src/|JavaCompleto/Fundamentos/Console/src/|JavaCompleto/Fundamentos/Temperaturas/src/|Calculadora/calculadora/src/|JavaCompleto/Fundamentos/Operadores/src/|JavaCompleto/Fundamentos/src/|JavaCompleto/Desafios/PrimeiroTrauma/src/|campo_minado2/|JPA_API/src/|JavaCompleto/ArraysAndCollections/Map/src/|JavaCompleto/Desafios/desafiomoduloclassemetodo/src/|com.test/src/|JavaCompleto/Fundamentos/Metodo-s/src/|Exercicios_JPAa/src/main/java/modelo/consulta/|JavaCompleto/ArraysAndCollections/Listas/src/|JavaCompleto/ArraysAndCollections/Pilha/src/|JavaCompleto/ArraysAndCollections/FIla/src/|JavaCompleto/ArraysAndCollections/Hash/src/|JavaCompleto/Fundamentos/OperadoresRelacionais/src/|JavaCompleto/lPOO/src/|JavaCompleto/Fundamentos/ConversaoStringNumero/src/|JavaCompleto/Fundamentos/MetodoString/src/|JavaCompleto/Fundamentos/Comentarios/src/|JavaCompleto/Fundamentos/Variaveis e constantes/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="Calculadora/calculadora/src"/>
+	<classpathentry kind="src" path="campo_minado"/>
+	<classpathentry kind="src" path="campo_minado2"/>
+	<classpathentry kind="src" path="com.test/src"/>
+	<classpathentry excluding="modelo/consulta/" kind="src" path="Exercicios_JPAa/src/main/java"/>
+	<classpathentry kind="src" path="Exercicios_JPAa/src/main/java/modelo/consulta"/>
+	<classpathentry kind="src" path="JavaCompleto/ArraysAndCollections/Collections/src"/>
+	<classpathentry kind="src" path="JavaCompleto/ArraysAndCollections/Construtor/src"/>
+	<classpathentry kind="src" path="JavaCompleto/ArraysAndCollections/FIla/src"/>
+	<classpathentry kind="src" path="JavaCompleto/ArraysAndCollections/Hash/src"/>
+	<classpathentry kind="src" path="JavaCompleto/ArraysAndCollections/Listas/src"/>
+	<classpathentry kind="src" path="JavaCompleto/ArraysAndCollections/Map/src"/>
+	<classpathentry kind="src" path="JavaCompleto/ArraysAndCollections/Pilha/src"/>
+	<classpathentry kind="src" path="JavaCompleto/ArraysAndCollections/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Desafios/Data/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Desafios/desafiomoduloclassemetodo/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Desafios/OperadoresLogicos/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Desafios/PrimeiroTrauma/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Desafios/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Areacif/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Comentarios/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Console/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/ConversaoNumeroString/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/ConversaoStringNumero/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Conversoes/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Equals na pratica/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Metodo-s/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/MetodoString/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/NotacaoPonto/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Operadores/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/OperadoresRelacionais/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Temperaturas/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Variaveis e constantes/src"/>
+	<classpathentry kind="src" path="JavaCompleto/Fundamentos/Wrapper/src"/>
+	<classpathentry kind="src" path="JavaCompleto/lPOO/src"/>
+	<classpathentry kind="src" path="JavaDataBaseConnectivity_(JDBC)/br.com.JavaBC.gabriel/src"/>
+	<classpathentry kind="src" path="JPA_API/src"/>
+	<classpathentry kind="output" path="Calculadora/calculadora/bin"/>
+</classpath>
